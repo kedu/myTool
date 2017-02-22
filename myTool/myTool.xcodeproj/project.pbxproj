@@ -8,13 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		188914901E5C89D70058F3A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1889148F1E5C89D70058F3A4 /* AppDelegate.swift */; };
-		188914921E5C89D70058F3A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914911E5C89D70058F3A4 /* ViewController.swift */; };
-		188914951E5C89D70058F3A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188914931E5C89D70058F3A4 /* Main.storyboard */; };
 		188914981E5C89D80058F3A4 /* myTool.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 188914961E5C89D80058F3A4 /* myTool.xcdatamodeld */; };
 		1889149A1E5C89D80058F3A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188914991E5C89D80058F3A4 /* Assets.xcassets */; };
 		1889149D1E5C89D80058F3A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1889149B1E5C89D80058F3A4 /* LaunchScreen.storyboard */; };
 		188914A81E5C89D80058F3A4 /* myToolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914A71E5C89D80058F3A4 /* myToolTests.swift */; };
 		188914B31E5C89D80058F3A4 /* myToolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914B21E5C89D80058F3A4 /* myToolUITests.swift */; };
+		188914D31E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914D21E5DB3850058F3A4 /* LKBTabBarVC.swift */; };
+		188914D41E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914D21E5DB3850058F3A4 /* LKBTabBarVC.swift */; };
+		188914D51E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914D21E5DB3850058F3A4 /* LKBTabBarVC.swift */; };
+		188914D71E5DB3CA0058F3A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188914D61E5DB3CA0058F3A4 /* Main.storyboard */; };
+		188914D81E5DB3CA0058F3A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188914D61E5DB3CA0058F3A4 /* Main.storyboard */; };
+		188914D91E5DB3CA0058F3A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188914D61E5DB3CA0058F3A4 /* Main.storyboard */; };
+		188914E31E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914E11E5DD8730058F3A4 /* LKBModuleVC.swift */; };
+		188914E41E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914E11E5DD8730058F3A4 /* LKBModuleVC.swift */; };
+		188914E51E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914E11E5DD8730058F3A4 /* LKBModuleVC.swift */; };
+		188914E61E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 188914E21E5DD8730058F3A4 /* LKBModuleVC.xib */; };
+		188914E71E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 188914E21E5DD8730058F3A4 /* LKBModuleVC.xib */; };
+		188914E81E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 188914E21E5DD8730058F3A4 /* LKBModuleVC.xib */; };
+		188914EB1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EA1E5DD8E10058F3A4 /* LKBHomeVC.swift */; };
+		188914EC1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EA1E5DD8E10058F3A4 /* LKBHomeVC.swift */; };
+		188914ED1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EA1E5DD8E10058F3A4 /* LKBHomeVC.swift */; };
+		188914EF1E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EE1E5DD9000058F3A4 /* LKBTravelVC.swift */; };
+		188914F01E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EE1E5DD9000058F3A4 /* LKBTravelVC.swift */; };
+		188914F11E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914EE1E5DD9000058F3A4 /* LKBTravelVC.swift */; };
+		188914F31E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F21E5DD9120058F3A4 /* LKBNoteVC.swift */; };
+		188914F41E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F21E5DD9120058F3A4 /* LKBNoteVC.swift */; };
+		188914F51E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F21E5DD9120058F3A4 /* LKBNoteVC.swift */; };
+		188914F71E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F61E5DD91F0058F3A4 /* LKBLiveVC.swift */; };
+		188914F81E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F61E5DD91F0058F3A4 /* LKBLiveVC.swift */; };
+		188914F91E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914F61E5DD91F0058F3A4 /* LKBLiveVC.swift */; };
+		188914FB1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FA1E5DD92F0058F3A4 /* LKBMeVC.swift */; };
+		188914FC1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FA1E5DD92F0058F3A4 /* LKBMeVC.swift */; };
+		188914FD1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FA1E5DD92F0058F3A4 /* LKBMeVC.swift */; };
+		188914FF1E5DDB4C0058F3A4 /* LKBApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FE1E5DDB4C0058F3A4 /* LKBApi.swift */; };
+		188915001E5DDB4C0058F3A4 /* LKBApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FE1E5DDB4C0058F3A4 /* LKBApi.swift */; };
+		188915011E5DDB4C0058F3A4 /* LKBApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188914FE1E5DDB4C0058F3A4 /* LKBApi.swift */; };
+		188915071E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188915061E5DDCF60058F3A4 /* LKBMeVC.storyboard */; };
+		188915081E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188915061E5DDCF60058F3A4 /* LKBMeVC.storyboard */; };
+		188915091E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188915061E5DDCF60058F3A4 /* LKBMeVC.storyboard */; };
+		8B2265C9CC80EE0ABF3C8004 /* Pods_myTool.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 192C3F5C3D4BC99F86B08A69 /* Pods_myTool.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,9 +68,7 @@
 
 /* Begin PBXFileReference section */
 		1889148C1E5C89D70058F3A4 /* myTool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myTool.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1889148F1E5C89D70058F3A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		188914911E5C89D70058F3A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		188914941E5C89D70058F3A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1889148F1E5C89D70058F3A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../AppDelegate.swift; sourceTree = "<group>"; };
 		188914971E5C89D80058F3A4 /* myTool.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = myTool.xcdatamodel; sourceTree = "<group>"; };
 		188914991E5C89D80058F3A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1889149C1E5C89D80058F3A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +79,20 @@
 		188914AE1E5C89D80058F3A4 /* myToolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myToolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		188914B21E5C89D80058F3A4 /* myToolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myToolUITests.swift; sourceTree = "<group>"; };
 		188914B41E5C89D80058F3A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		188914D21E5DB3850058F3A4 /* LKBTabBarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBTabBarVC.swift; sourceTree = "<group>"; };
+		188914D61E5DB3CA0058F3A4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		188914E11E5DD8730058F3A4 /* LKBModuleVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBModuleVC.swift; sourceTree = "<group>"; };
+		188914E21E5DD8730058F3A4 /* LKBModuleVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LKBModuleVC.xib; sourceTree = "<group>"; };
+		188914EA1E5DD8E10058F3A4 /* LKBHomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBHomeVC.swift; sourceTree = "<group>"; };
+		188914EE1E5DD9000058F3A4 /* LKBTravelVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBTravelVC.swift; sourceTree = "<group>"; };
+		188914F21E5DD9120058F3A4 /* LKBNoteVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBNoteVC.swift; sourceTree = "<group>"; };
+		188914F61E5DD91F0058F3A4 /* LKBLiveVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBLiveVC.swift; sourceTree = "<group>"; };
+		188914FA1E5DD92F0058F3A4 /* LKBMeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBMeVC.swift; sourceTree = "<group>"; };
+		188914FE1E5DDB4C0058F3A4 /* LKBApi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LKBApi.swift; sourceTree = "<group>"; };
+		188915061E5DDCF60058F3A4 /* LKBMeVC.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LKBMeVC.storyboard; sourceTree = "<group>"; };
+		192C3F5C3D4BC99F86B08A69 /* Pods_myTool.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myTool.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DF15BD1156F0EFE9B1D26B7 /* Pods-myTool.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myTool.release.xcconfig"; path = "Pods/Target Support Files/Pods-myTool/Pods-myTool.release.xcconfig"; sourceTree = "<group>"; };
+		ADD0EBCDE29C469241AC66EF /* Pods-myTool.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myTool.debug.xcconfig"; path = "Pods/Target Support Files/Pods-myTool/Pods-myTool.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B2265C9CC80EE0ABF3C8004 /* Pods_myTool.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +128,8 @@
 				188914A61E5C89D80058F3A4 /* myToolTests */,
 				188914B11E5C89D80058F3A4 /* myToolUITests */,
 				1889148D1E5C89D70058F3A4 /* Products */,
+				F130BF94448A9906D7721513 /* Pods */,
+				4BDA75A8FA001D29DB66ADF7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +146,16 @@
 		1889148E1E5C89D70058F3A4 /* myTool */ = {
 			isa = PBXGroup;
 			children = (
-				1889148F1E5C89D70058F3A4 /* AppDelegate.swift */,
-				188914911E5C89D70058F3A4 /* ViewController.swift */,
-				188914931E5C89D70058F3A4 /* Main.storyboard */,
 				188914991E5C89D80058F3A4 /* Assets.xcassets */,
-				1889149B1E5C89D80058F3A4 /* LaunchScreen.storyboard */,
-				1889149E1E5C89D80058F3A4 /* Info.plist */,
-				188914961E5C89D80058F3A4 /* myTool.xcdatamodeld */,
+				188914C91E5D9E750058F3A4 /* Application */,
+				188914C01E5D9E330058F3A4 /* BaseClass */,
+				188914C11E5D9E330058F3A4 /* Category */,
+				188914C61E5D9E330058F3A4 /* Utils */,
+				188914D11E5DB3850058F3A4 /* Module */,
+				188914C41E5D9E330058F3A4 /* Resources */,
+				188914C71E5D9E330058F3A4 /* Vendor */,
+				188914C51E5D9E330058F3A4 /* Runtime */,
+				188914D01E5DB1860058F3A4 /* Supports */,
 			);
 			path = myTool;
 			sourceTree = "<group>";
@@ -128,6 +178,149 @@
 			path = myToolUITests;
 			sourceTree = "<group>";
 		};
+		188914C01E5D9E330058F3A4 /* BaseClass */ = {
+			isa = PBXGroup;
+			children = (
+				188914E11E5DD8730058F3A4 /* LKBModuleVC.swift */,
+				188914E21E5DD8730058F3A4 /* LKBModuleVC.xib */,
+			);
+			path = BaseClass;
+			sourceTree = "<group>";
+		};
+		188914C11E5D9E330058F3A4 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		188914C41E5D9E330058F3A4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		188914C51E5D9E330058F3A4 /* Runtime */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Runtime;
+			sourceTree = "<group>";
+		};
+		188914C61E5D9E330058F3A4 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		188914C71E5D9E330058F3A4 /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendor;
+			sourceTree = "<group>";
+		};
+		188914C91E5D9E750058F3A4 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				1889148F1E5C89D70058F3A4 /* AppDelegate.swift */,
+				188914FE1E5DDB4C0058F3A4 /* LKBApi.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		188914D01E5DB1860058F3A4 /* Supports */ = {
+			isa = PBXGroup;
+			children = (
+				1889149E1E5C89D80058F3A4 /* Info.plist */,
+				188914961E5C89D80058F3A4 /* myTool.xcdatamodeld */,
+				1889149B1E5C89D80058F3A4 /* LaunchScreen.storyboard */,
+			);
+			name = Supports;
+			sourceTree = "<group>";
+		};
+		188914D11E5DB3850058F3A4 /* Module */ = {
+			isa = PBXGroup;
+			children = (
+				188914DF1E5DD8010058F3A4 /* MeVC */,
+				188914DE1E5DD7F60058F3A4 /* LiveVC */,
+				188914DD1E5DD7E60058F3A4 /* NoteVC */,
+				188914DC1E5DD7610058F3A4 /* TravelVC */,
+				188914DB1E5DC9270058F3A4 /* HomeVC */,
+				188914DA1E5DC90A0058F3A4 /* TabBarVC */,
+			);
+			path = Module;
+			sourceTree = "<group>";
+		};
+		188914DA1E5DC90A0058F3A4 /* TabBarVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914D21E5DB3850058F3A4 /* LKBTabBarVC.swift */,
+				188914D61E5DB3CA0058F3A4 /* Main.storyboard */,
+			);
+			name = TabBarVC;
+			sourceTree = "<group>";
+		};
+		188914DB1E5DC9270058F3A4 /* HomeVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914EA1E5DD8E10058F3A4 /* LKBHomeVC.swift */,
+			);
+			name = HomeVC;
+			sourceTree = "<group>";
+		};
+		188914DC1E5DD7610058F3A4 /* TravelVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914EE1E5DD9000058F3A4 /* LKBTravelVC.swift */,
+			);
+			name = TravelVC;
+			sourceTree = "<group>";
+		};
+		188914DD1E5DD7E60058F3A4 /* NoteVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914F21E5DD9120058F3A4 /* LKBNoteVC.swift */,
+			);
+			name = NoteVC;
+			sourceTree = "<group>";
+		};
+		188914DE1E5DD7F60058F3A4 /* LiveVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914F61E5DD91F0058F3A4 /* LKBLiveVC.swift */,
+			);
+			name = LiveVC;
+			sourceTree = "<group>";
+		};
+		188914DF1E5DD8010058F3A4 /* MeVC */ = {
+			isa = PBXGroup;
+			children = (
+				188914FA1E5DD92F0058F3A4 /* LKBMeVC.swift */,
+				188915061E5DDCF60058F3A4 /* LKBMeVC.storyboard */,
+			);
+			name = MeVC;
+			sourceTree = "<group>";
+		};
+		4BDA75A8FA001D29DB66ADF7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				192C3F5C3D4BC99F86B08A69 /* Pods_myTool.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F130BF94448A9906D7721513 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				ADD0EBCDE29C469241AC66EF /* Pods-myTool.debug.xcconfig */,
+				9DF15BD1156F0EFE9B1D26B7 /* Pods-myTool.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +328,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 188914B71E5C89D80058F3A4 /* Build configuration list for PBXNativeTarget "myTool" */;
 			buildPhases = (
+				9C4EDEAA5D0B23162EFEE14A /* [CP] Check Pods Manifest.lock */,
 				188914881E5C89D70058F3A4 /* Sources */,
 				188914891E5C89D70058F3A4 /* Frameworks */,
 				1889148A1E5C89D70058F3A4 /* Resources */,
+				80324B124D64950DD4048BC7 /* [CP] Embed Pods Frameworks */,
+				D1584C243E7B25A6544319A0 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -190,6 +386,7 @@
 		188914841E5C89D70058F3A4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = LKB;
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "lkb-求工作qq:1218773641";
@@ -238,9 +435,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914E61E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */,
+				188914D71E5DB3CA0058F3A4 /* Main.storyboard in Resources */,
 				1889149D1E5C89D80058F3A4 /* LaunchScreen.storyboard in Resources */,
+				188915071E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */,
 				1889149A1E5C89D80058F3A4 /* Assets.xcassets in Resources */,
-				188914951E5C89D70058F3A4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +447,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914E71E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */,
+				188914D81E5DB3CA0058F3A4 /* Main.storyboard in Resources */,
+				188915081E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,19 +457,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914E81E5DD8730058F3A4 /* LKBModuleVC.xib in Resources */,
+				188914D91E5DB3CA0058F3A4 /* Main.storyboard in Resources */,
+				188915091E5DDCF60058F3A4 /* LKBMeVC.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		80324B124D64950DD4048BC7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-myTool/Pods-myTool-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9C4EDEAA5D0B23162EFEE14A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D1584C243E7B25A6544319A0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-myTool/Pods-myTool-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		188914881E5C89D70058F3A4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914FF1E5DDB4C0058F3A4 /* LKBApi.swift in Sources */,
+				188914E31E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */,
 				188914981E5C89D80058F3A4 /* myTool.xcdatamodeld in Sources */,
-				188914921E5C89D70058F3A4 /* ViewController.swift in Sources */,
+				188914EF1E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */,
 				188914901E5C89D70058F3A4 /* AppDelegate.swift in Sources */,
+				188914F71E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */,
+				188914FB1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */,
+				188914EB1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */,
+				188914F31E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */,
+				188914D31E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +535,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914D41E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */,
+				188914EC1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */,
+				188914E41E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */,
+				188914F01E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */,
+				188914FC1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */,
+				188914F81E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */,
+				188914F41E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */,
 				188914A81E5C89D80058F3A4 /* myToolTests.swift in Sources */,
+				188915001E5DDB4C0058F3A4 /* LKBApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +551,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188914D51E5DB3850058F3A4 /* LKBTabBarVC.swift in Sources */,
+				188914ED1E5DD8E10058F3A4 /* LKBHomeVC.swift in Sources */,
+				188914E51E5DD8730058F3A4 /* LKBModuleVC.swift in Sources */,
+				188914F11E5DD9000058F3A4 /* LKBTravelVC.swift in Sources */,
+				188914FD1E5DD92F0058F3A4 /* LKBMeVC.swift in Sources */,
+				188914F91E5DD91F0058F3A4 /* LKBLiveVC.swift in Sources */,
+				188914F51E5DD9120058F3A4 /* LKBNoteVC.swift in Sources */,
 				188914B31E5C89D80058F3A4 /* myToolUITests.swift in Sources */,
+				188915011E5DDB4C0058F3A4 /* LKBApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,14 +579,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		188914931E5C89D70058F3A4 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				188914941E5C89D70058F3A4 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		1889149B1E5C89D80058F3A4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -362,7 +630,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -406,7 +674,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -417,10 +685,12 @@
 		};
 		188914B81E5C89D80058F3A4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ADD0EBCDE29C469241AC66EF /* Pods-myTool.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E54YL2T5L5;
 				INFOPLIST_FILE = myTool/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lkb.myTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,10 +700,12 @@
 		};
 		188914B91E5C89D80058F3A4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9DF15BD1156F0EFE9B1D26B7 /* Pods-myTool.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E54YL2T5L5;
 				INFOPLIST_FILE = myTool/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lkb.myTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -518,6 +790,7 @@
 				188914B91E5C89D80058F3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		188914BA1E5C89D80058F3A4 /* Build configuration list for PBXNativeTarget "myToolTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +799,7 @@
 				188914BC1E5C89D80058F3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		188914BD1E5C89D80058F3A4 /* Build configuration list for PBXNativeTarget "myToolUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +808,7 @@
 				188914BF1E5C89D80058F3A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

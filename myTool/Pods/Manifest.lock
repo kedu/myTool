@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.3.0)
+  - DateToolsSwift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - DateToolsSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  DateToolsSwift: 27336736d877c8734159da1f37afbda2aa704649
+
+PODFILE CHECKSUM: 3e6f0cafd3c86d1b121f69f0da10e5346a707142
+
+COCOAPODS: 1.2.0
